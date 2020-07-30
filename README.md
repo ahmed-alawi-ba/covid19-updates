@@ -2,8 +2,9 @@
 
 Covid-19 updates is an Android app developed using Java language. Its main focus is to get the latest updates of the Corona Virus Disease through using various trusted APIs. 
 <br/>
+
 [World Health Organization covid-19 page](https://covid19.who.int/)
-<br/><br/>
+<br/>
 
 This app is built using great Android development features, like: Asynchronous Tasks, Support of multiple screen sizes, fetching JSON data from various internet APIs .. etc.
 <br/>
@@ -23,9 +24,9 @@ This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), an
 <br/><br/><br/><br/>
 
 
----
+-------
 
-<br/>
+
 ### Screenshots of The App
 
 <br/><br/>
