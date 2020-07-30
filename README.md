@@ -6,10 +6,9 @@ Covid-19 updates is an Android app developed using Java language. Its main focus
 [World Health Organization covid-19 page](https://covid19.who.int/)
 
 <br/>
+This app is built using great Android development features, like: Asynchronous Tasks, Support of multiple screen sizes, fetching JSON data from various internet APIs .. etc.
 
-This app is built using great Android development features, like: Asynchronous Tasks, Support of multiple screen sizes .. etc.
-
-<br/>
+<br/><br/><br/>
 
 The APIs used in this app are:
 
@@ -18,12 +17,12 @@ The APIs used in this app are:
 [Covid 19 API](https://covid19api.com/) is a free API for data on the Coronavirus, they provide great services through their API, with a various endpoints available for the developer. this API served more than 159,000,000 requests.
 <br/>
 This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), and the data is sourced from [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-<br/>
+<br/><br/><br/>
 
 ### News API
 
 [News API](https://newsapi.org/) is a very popular API for getting the latest news. With this API, you can get the breaking news headlines, and search for articles from news sources and blogs all over the web. It is also a simple and easy-to-use API that returns JSON metadata for headlines and articles.
-<br/><br/>
+<br/><br/><br/><br/>
 
 
 
