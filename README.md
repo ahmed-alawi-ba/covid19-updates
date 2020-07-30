@@ -8,7 +8,7 @@ Covid-19 updates is an Android app developed using Java language. Its main focus
 <br/>
 This app is built using great Android development features, like: Asynchronous Tasks, Support of multiple screen sizes, fetching JSON data from various internet APIs .. etc.
 
-<br/><br/><br/>
+<br/>
 
 The APIs used in this app are:
 
@@ -31,38 +31,42 @@ This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), an
 
 **Home Page**
 <br/>
-
+![covid19 updates - home page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-home.jpg)
+<br/>
 
 
 **Symptoms articles**
 <br/>
-
+![covid19 updates - symptoms page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-symptoms.jpg)
+<br/>
 
 
 **Treatment and Precautions articles**
 <br/>
-
+![covid19 updates - symptoms page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-symptoms.jpg)
+<br/>
 
 
 **Live Updates Page of the Current Number of Cases Around the World**
 <br/>
-
+![covid19 updates - cases numbers page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-live-updates.jpg)
+<br/>
+![covid19 updates - cases numbers page 2](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-live-updates2.jpg)
+<br/>
 
 
 **Breaking News page**(screenshots of Malaysia country breaking news)
 <br/>
-
-**After Clicking any of the News to Read the Full Article**
+![covid19 updates - breaking news page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news.jpg)
+<br/>
+![covid19 updates - breaking news page 2](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news2.jpg)
 <br/>
 
 
-
-
-
-
-
-
-
+**After Clicking any of the News to Read the Full Article**
+<br/>
+![covid19 updates - full news article page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news-article.jpg)
+<br/>
 
 
 
