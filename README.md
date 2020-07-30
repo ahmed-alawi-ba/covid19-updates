@@ -30,29 +30,33 @@ This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), an
 ### Screenshots of The App
 
 <br/><br/>
-**Home Page**
+** -- Home Page -- **
 <br/><br/>
+
 ![covid19 updates - home page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-home.jpg)
 <br/><br/><br/>
 
 
 
-**Symptoms articles**
+** -- Symptoms articles -- **
 <br/><br/>
+
 ![covid19 updates - symptoms page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-symptoms.jpg)
 <br/><br/><br/>
 
 
 
-**Treatment and Precautions articles**
+** -- Treatment and Precautions Articles -- **
 <br/><br/>
+
 ![covid19 updates - symptoms page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-symptoms.jpg)
 <br/><br/><br/>
 
 
 
-**Live Updates Page of the Current Number of Cases Around the World**
+** -- Live Updates Page of the Current Number of Cases Around the World -- **
 <br/><br/>
+
 ![covid19 updates - cases numbers page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-live-updates.jpg)
 <br/><br/><br/>
 ![covid19 updates - cases numbers page 2](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-live-updates2.jpg)
@@ -60,8 +64,9 @@ This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), an
 
 
 
-**Breaking News page**(screenshots of Malaysia country breaking news)
+** -- Breaking News page -- **(screenshots of Malaysia country breaking news)
 <br/><br/>
+
 ![covid19 updates - breaking news page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news.jpg)
 <br/><br/><br/>
 ![covid19 updates - breaking news page 2](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news2.jpg)
@@ -69,8 +74,9 @@ This API is built by [Kyle Redelinghuys](https://twitter.com/ksredelinghuys), an
 
 
 
-**After Clicking any of the News to Read the Full Article**
+** -- After Clicking any of the News to Read the Full Article -- **
 <br/><br/>
+
 ![covid19 updates - full news article page](https://github.com/ahmed-alawi-ba/covid19-updates/blob/master/screenshots/covid19-updates-news-article.jpg)
 <br/><br/><br/>
 
