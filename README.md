@@ -2,10 +2,7 @@
 
 Covid-19 updates is an Android app developed using Java language. Its main focus is to get the latest updates of the Corona Virus Disease through using various trusted APIs. The app was initially developed to be uploaded to Google Play store, but it was not approved by Google due to the restrictions on any unofficial app (not from a health organization) providing content related to Corona Virus Disease. 
 Though you can download the apk file from here: https://www.dropbox.com/s/p8rpmev7g7pgw3j/Covid19%20Updates.apk?dl=0
-
-<br/><br/>
-
-
+<br/>
 This app is built using great Android development features, like: Asynchronous Tasks, Support of multiple screen sizes, fetching JSON data from various internet APIs .. etc.
 <br/>
 This is an overview video of the app: <br/>
